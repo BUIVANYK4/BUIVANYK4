@@ -1,10 +1,8 @@
 <h1 align="center">Hi 👋, I'm BUIVANY</h1>
 <h3 align="center">Young Cybersecurity</h3>
-<div style="text-align:center;">
-  <img align="center" alt="Coding" width="600" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-</div>
-<h3 align="center">Languages and Tools:</h3>
-<p align="center">
+<img align="left" alt="Coding" width="600" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<h3 align="right">Languages and Tools:</h3>
+<p align="right">
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
   </a> 
